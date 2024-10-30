@@ -1,5 +1,5 @@
-// locations/contact-information/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// locations/contact-information/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

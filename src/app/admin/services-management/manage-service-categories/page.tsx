@@ -1,5 +1,5 @@
-// services-management/manage-service-categories/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// services-management/manage-service-categories/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

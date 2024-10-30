@@ -1,5 +1,5 @@
-// order-management/track-order-history/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// order-management/track-order-history/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

@@ -1,5 +1,5 @@
-// promotions-management/track-offers/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// promotions-management/track-offers/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

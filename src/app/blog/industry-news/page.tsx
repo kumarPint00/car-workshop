@@ -1,5 +1,5 @@
-// blog/industry-news/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// blog/industry-news/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

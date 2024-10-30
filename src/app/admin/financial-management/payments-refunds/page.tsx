@@ -1,5 +1,5 @@
-// financial-management/payments-refunds/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// financial-management/payments-refunds/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;

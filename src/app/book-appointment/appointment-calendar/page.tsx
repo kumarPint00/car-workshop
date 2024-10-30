@@ -1,5 +1,5 @@
-// book-appointment/appointment-calendar/page.tsx page component
-const page.tsx = () => {
-  return <div>page.tsx page</div>;
+// book-appointment/appointment-calendar/page page component
+const page = () => {
+  return <div>page page</div>;
 };
-export default page.tsx;
+export default page;
